@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="parameter1" value="321"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+        <include name="smoke"/>
+        <include name="common"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.flipkart.MobilesStepdefinition">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="clickOnTodaysDeals" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="applicationLaunch"/>
+        </methods>
+      </class> <!-- com.flipkart.MobilesStepdefinition -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
