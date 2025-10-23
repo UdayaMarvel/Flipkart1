@@ -5,11 +5,19 @@
     <classes>
       <class name="com.flipkart.MobilesStepdefinition">
         <methods>
+          <include name="select3rdProduct"/>
           <include name="closeBrowser"/>
+          <include name="afterSuite"/>
+          <include name="validateAppleRelatedProducts"/>
           <include name="beforeMethod"/>
+          <include name="beforeTest"/>
           <include name="afterMethod"/>
-          <include name="clickOnTodaysDeals" invocation-numbers="0"/>
+          <include name="clickOnTodaysDeals"/>
+          <include name="afterTest"/>
+          <include name="addProductToCart"/>
           <include name="validateProductWithPercentage"/>
+          <include name="beforeSuite"/>
+          <include name="applicationLaunch"/>
         </methods>
       </class> <!-- com.flipkart.MobilesStepdefinition -->
     </classes>
