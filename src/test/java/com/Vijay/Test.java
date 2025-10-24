@@ -45,6 +45,7 @@ public class Test {
 
 	      
 	        if (areAnagram(str1, str2))
+
 	            System.out.println("The strings are"
 	                               + "anagram of each other");
 	        else
