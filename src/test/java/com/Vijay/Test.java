@@ -43,12 +43,13 @@ public class Test {
 	        char str1[] = ("geeksforgeeks").toCharArray();
 	        char str2[] = ("forgeeksgeeks").toCharArray();
 
-	      
+	// remote conflict      
 	        if (areAnagram(str1, str2))
-	            System.out.println("The three strings are anagram of each other");
+
+	            System.out.println("The two strings are anagram of each other");
 	        else
-	            System.out.println("The three strings are not"
-	                               + " anagram of each other");
+	            System.out.println("The two strings are not anagram of each other");
+
 	    }
 	}
 
