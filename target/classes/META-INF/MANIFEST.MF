@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 21
+Built-By: Megarwin JayaRajaa
+Build-Jdk: 17.0.4.1
 Created-By: Maven Integration for Eclipse
 
