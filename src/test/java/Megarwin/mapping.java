@@ -25,6 +25,9 @@ public class mapping {
         for (Map.Entry<Character, Integer> entry : count.entrySet()) {
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
+        System.out.println("for conflict");
+        
+        
     }
 	
 	
