@@ -10,7 +10,8 @@ public class Program {
 			for (int j = 1; j <= i; j++) {
 				System.out.print(j + " ");
 			}
-			System.out.println("This line is modified in master after merge");
+			System.out.println("Resolved line from both branches");
+
 		}
 	}
 }
