@@ -45,10 +45,10 @@ public class Test {
 
 	      
 	        if (areAnagram(str1, str2))
-	            System.out.println("The two strings are"
+	            System.out.println("The three strings are"
 	                               + "anagram of each other");
 	        else
-	            System.out.println("The two strings are not"
+	            System.out.println("The three strings are not"
 	                               + " anagram of each other");
 	    }
 	}
