@@ -43,7 +43,7 @@ public class Test {
 	        char str1[] = ("geeksforgeeks").toCharArray();
 	        char str2[] = ("forgeeksgeeks").toCharArray();
 
-	      
+	// remote conflict      
 	        if (areAnagram(str1, str2))
 	            System.out.println("The two strings are"
 	                               + "anagram of each other");
