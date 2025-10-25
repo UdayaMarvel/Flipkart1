@@ -1,16 +1,15 @@
 package Megarwin;
-
-<<<<<<< HEAD
-public class mapping {
-
-=======
 import java.util.HashMap;
+
 import java.util.Map;
 
 public class mapping {
 
-	public static void main(String[] args) {
-        String name = "megarwin jaya rajaa";
+public static void main(String[] args) {
+	
+
+        
+		String name = "megarwin jaya rajaa";
 
         Map<Character, Integer> count = new HashMap<Character, Integer>();
 
@@ -31,5 +30,5 @@ public class mapping {
         }
     }
 	
->>>>>>> e664914cc379cb6bd0093da34f9deefc3ebc10e8
+
 }
