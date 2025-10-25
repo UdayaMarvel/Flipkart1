@@ -23,10 +23,11 @@ public class git2 {
 
 		
 		        System.out.println("Length of the array: " + numbers.length);
-		    }
+	}
 		}
+
+
 	
 	
-	
-	
-	
+
+
