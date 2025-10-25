@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Built-By: D
-=======
-Built-By: shilp
->>>>>>> 0981227189e155f7c26dca95a0381320a0b01510
+Built-By: bhara
 Build-Jdk: 17.0.4.1
 Created-By: Maven Integration for Eclipse
 
