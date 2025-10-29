@@ -6,7 +6,7 @@ public class ArithmeticOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter first number: ");
+        System.out.print("Enter 2nd number: ");
         int a = sc.nextInt();
 
         System.out.print("Enter second number: ");
