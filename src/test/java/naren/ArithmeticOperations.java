@@ -7,7 +7,7 @@ public class ArithmeticOperations {
         Scanner sc = new Scanner(System.in);
 
 
-        System.out.print("Enter First number: ");
+        System.out.print("Enter 1st number: ");
 
         int a = sc.nextInt();
 
